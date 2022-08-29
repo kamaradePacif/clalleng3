@@ -1,0 +1,241 @@
+.header{
+    width: 100%;
+    height: auto;
+}
+
+
+.top{
+    height: auto;
+    width: 100%;
+    background-color: rgb(5, 5, 91);
+    margin-right:200px;
+    margin-top: -8px;
+}
+.link a{
+    margin-top: -10px;
+    color: hwb(0 95% 2%);
+    text-decoration: none;
+    margin-left: 70px;
+    
+    
+}
+.middle{
+    height: auto;
+    width: 100%;
+    background-color: white;
+    
+    
+}
+.link2{
+     margin-left: 180px;
+    margin-top: -60px; 
+    
+    
+}
+
+.end{
+    margin-top: 70px;
+}
+
+.photo img{
+    margin-top: 30px;
+}
+.link2 a{
+    text-decoration: none;
+    margin-left: 70px;
+    padding-bottom: 80px;
+    padding-left: 50px;
+    grid-gap: 5px;
+}
+.word{
+    margin-left: 400px;
+    margin-top: -200px;
+    color: white;
+}
+.color{
+    background-color:rgb(214, 247, 214);
+    height: 380px;
+    width: 400px;
+    margin-left: 50px;
+    border-radius: 10px;
+    margin-top: 100;
+}
+.END{
+    margin-top: -40PX;
+    padding-top: -100px;
+
+}
+.midle2{
+    
+width: 100%;
+height: 600px;
+}
+.digital{
+    background-color: rgb(195, 231, 219);
+    width: 400px;
+    height: 200px;
+    margin-left: 90px;
+    margin-top: 180px;
+    border-radius: 10px;
+}
+.digital p{
+    margin-left: 60PX;
+    padding-top: 20px;
+}
+.paragraph{
+    margin-left: 70px;
+    padding-top: -5px;
+
+}
+.read{
+    background-color: rgb(117, 247, 117);
+    width: 150px;
+    margin-top: -40px;
+    margin-right: 30px;
+    height: 40px;
+    margin-left: 40px;
+    color: white;
+    border-radius: 10px;
+}
+.bank{
+    background-color: rgb(26, 26, 214);
+    width:700px;
+    height: 200px;
+    margin-top: -200px;
+    color: rgb(106, 92, 92);
+    margin-left: 600px;
+    border-radius: 5px;
+
+}
+.home{
+    color :white;
+    margin-top: -40px;
+    
+}
+.bank p{
+    padding-left: 50px;
+    padding-top: 50px;
+    
+}
+.view{
+    background-color: rgb(59, 240, 171);
+    width: 290px;
+    height: 30px;
+    margin-left: 50px;
+    border-radius: 10px;
+    
+}
+.line{
+    margin-top: -90px;
+    margin-left: 20px;
+    color: white;
+}
+.line img{
+    height: 200px;
+    width: 140px;
+    margin-left: 490px;
+}
+.cont{
+    margin-left: 150px;
+    margin-top: 23px;
+}
+.result{
+    margin-left: 650px;
+    margin-top: -200px;
+    color: white;
+    height: 30px;
+    width: 50px;
+    background-color: rgba(205, 17, 17, 0.902);
+    border-radius: 5px;
+
+}
+.interv{
+    margin-left:750px;
+    margin-top: -50px;
+}
+.name{
+    margin-left: 1000px;
+    margin-top: -30px;
+    width: 105px;
+}
+.name hr{
+    margin-top: -20px;
+}
+.job{
+    margin-left: 650px;
+    margin-top: 100px;
+}
+.coll{
+    margin-left: 780px;
+    margin-top: -40px;
+}
+.open{
+    margin-left: 1030px;
+    margin-top: -150px;
+}
+.father{
+    margin-top: -160px;
+    margin-left: 150px;
+    font-size: larger;
+    color: rgb(8, 6, 6);
+}
+.ines{
+    margin-left: 150px;
+    margin-top: -40px;
+}
+.readmore a{
+    border: 1px solid;
+    margin-left: 150px;
+    text-decoration: none;
+    color: brown;
+}
+.student{
+height: 36px;
+width: 80px;
+margin-left:600px;
+margin-top: -160px;
+}
+.student p{
+    margin-left: 140px;
+    margin-top: -90px;
+    font-size: larger;
+}
+
+.campus{
+    margin-left:600px;
+margin-top: 150px;
+}
+ .campus p{
+    margin-left: 140px;
+    margin-top: -90px;
+    font-size: larger 
+ }
+ .kigali a{
+    background-color: rgb(250, 227, 184);
+    width: 250px;
+    height: 200px;
+    text-decoration: none;
+    margin-left: 700px;
+    color: white;
+ }
+ .ruhengeri{
+    margin-left:400px;
+    margin-top: 250PX;
+    
+ }
+ .ruhengeri p{
+    margin-left: 730px;
+    margin-top: -70px;
+    font-size: larger ;
+}
+.capture{
+    margin-left: 1000px;
+    margin-top: -500px;
+    
+}
+ 
+
+
+
+
+   
